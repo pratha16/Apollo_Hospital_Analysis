@@ -161,13 +161,12 @@ ORDER BY age_sort, wait_sort;
 -- ============================================================
 --  Script 04 complete.
 --
---  Pass to Prathamesh:
 --  Database   : apollo
 --  Views      : vw_noshow_summary
 --               vw_noshow_by_age_wait
 --               vw_noshow_by_neighbourhood
 --  Connection : MySQL localhost, port 3306
 --
---  Next step  : Prathamesh connects Power BI to these 3 views
---               Sarthak writes 05_Bonus.sql independently
+--  Next step  : connect Power BI to these 3 views
+--               
 -- ============================================================
