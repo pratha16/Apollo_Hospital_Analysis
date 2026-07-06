@@ -3,7 +3,7 @@
 --  Apollo Hospital No-Show Risk Analysis | Level 3
 -- ============================================================
 --  Script   : 04_Views.sql
---  Author   : Sarthak (Analytics Engineer)
+--  Author   : Prathamesh More
 --  Date     : March 4, 2026
 --  Purpose  : Create 3 production views on apollo_cleaned.
 --             These are the only tables Prathamesh connects
