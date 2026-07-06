@@ -3,7 +3,7 @@
 --  Apollo Hospital No-Show Risk Analysis | Level 3
 -- ============================================================
 --  Script   : 03_Analysis.sql
---  Author   : Sarthak (Analytics Engineer)
+--  Author   : Prathamesh More
 --  Date     : March 4, 2026
 --  Purpose  : Exploratory analysis on apollo_cleaned.
 --             Eight focused queries that answer the most
