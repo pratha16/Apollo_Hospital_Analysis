@@ -3,7 +3,7 @@
 --  Apollo Hospital No-Show Risk Analysis | Level 3
 -- ============================================================
 --  Script   : 02_Cleaning.sql
---  Author   : Nitishkumar (Data Engineer)
+--  Author   : Prathamesh More
 --  Date     : March 3, 2026
 --  Purpose  : Two things happen in this script.
 --             First, we audit apollo_raw to find all data
