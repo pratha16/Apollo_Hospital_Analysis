@@ -353,5 +353,4 @@ DESCRIBE apollo_cleaned;
 --  • clean_rows count
 --  • overall_no_show_pct  ← this is the project baseline KPI
 --
---  Next step : Sarthak runs 03_Analysis.sql
 -- ============================================================
