@@ -3,7 +3,7 @@
 --  Apollo Hospital No-Show Risk Analysis | Level 3
 -- ============================================================
 --  Script   : 01_Loading.sql
---  Author   : Nitishkumar (Data Engineer)
+--  Author   : Prathamesh More
 --  Date     : March 3, 2026
 --  Purpose  : Create the apollo database and load the raw CSV
 --             into apollo_raw. No cleaning happens here.
